@@ -1,0 +1,6 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: linear-gradient(to left, rgb(171, 143, 31) 0%, rgb(116, 204, 156) 100%);
+}
