@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.c7ee5279.chunk.css",
-    "main.js": "/static/js/main.f822e101.chunk.js",
-    "main.js.map": "/static/js/main.f822e101.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.542fcad4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.542fcad4.js.map",
-    "static/css/2.31461e4f.chunk.css": "/static/css/2.31461e4f.chunk.css",
-    "static/js/2.c1f30908.chunk.js": "/static/js/2.c1f30908.chunk.js",
-    "static/js/2.c1f30908.chunk.js.map": "/static/js/2.c1f30908.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.31461e4f.chunk.css.map": "/static/css/2.31461e4f.chunk.css.map",
-    "static/css/main.c7ee5279.chunk.css.map": "/static/css/main.c7ee5279.chunk.css.map",
-    "static/js/2.c1f30908.chunk.js.LICENSE.txt": "/static/js/2.c1f30908.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/STARWARS.50e674cd.woff"
+    "main.css": "/Robo-dex/static/css/main.76431b7d.chunk.css",
+    "main.js": "/Robo-dex/static/js/main.3a5d420c.chunk.js",
+    "main.js.map": "/Robo-dex/static/js/main.3a5d420c.chunk.js.map",
+    "runtime-main.js": "/Robo-dex/static/js/runtime-main.59ecf62e.js",
+    "runtime-main.js.map": "/Robo-dex/static/js/runtime-main.59ecf62e.js.map",
+    "static/css/2.31461e4f.chunk.css": "/Robo-dex/static/css/2.31461e4f.chunk.css",
+    "static/js/2.bb1cdf39.chunk.js": "/Robo-dex/static/js/2.bb1cdf39.chunk.js",
+    "static/js/2.bb1cdf39.chunk.js.map": "/Robo-dex/static/js/2.bb1cdf39.chunk.js.map",
+    "index.html": "/Robo-dex/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/Robo-dex/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.76431b7d.chunk.css.map": "/Robo-dex/static/css/main.76431b7d.chunk.css.map",
+    "static/js/2.bb1cdf39.chunk.js.LICENSE.txt": "/Robo-dex/static/js/2.bb1cdf39.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Robo-dex/static/media/STARWARS.50e674cd.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.542fcad4.js",
+    "static/js/runtime-main.59ecf62e.js",
     "static/css/2.31461e4f.chunk.css",
-    "static/js/2.c1f30908.chunk.js",
-    "static/css/main.c7ee5279.chunk.css",
-    "static/js/main.f822e101.chunk.js"
+    "static/js/2.bb1cdf39.chunk.js",
+    "static/css/main.76431b7d.chunk.css",
+    "static/js/main.3a5d420c.chunk.js"
   ]
 }
