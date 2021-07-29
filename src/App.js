@@ -12,7 +12,7 @@ class App extends Component {
             robots: [],
             searchfield: ''
         }
-        
+
     }
 
     componentDidMount() {
@@ -34,7 +34,7 @@ class App extends Component {
         } else {
             return (
                 <div className='tc' >
-                    <h1 className='f1'>RoboDex</h1>
+                    <h1 className='f1'>Robo-Dex</h1>
                     <SearchBox searchChange={this.onSearchChange} />
                     <Scroll>
                         <CardList robots={filteredRobots}/>
