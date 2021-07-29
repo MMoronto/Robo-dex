@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/robo-dex/static/css/main.c07a2327.chunk.css",
-    "main.js": "/robo-dex/static/js/main.3334860b.chunk.js",
-    "main.js.map": "/robo-dex/static/js/main.3334860b.chunk.js.map",
-    "runtime-main.js": "/robo-dex/static/js/runtime-main.d239f1dd.js",
-    "runtime-main.js.map": "/robo-dex/static/js/runtime-main.d239f1dd.js.map",
-    "static/css/2.31461e4f.chunk.css": "/robo-dex/static/css/2.31461e4f.chunk.css",
-    "static/js/2.7621dec1.chunk.js": "/robo-dex/static/js/2.7621dec1.chunk.js",
-    "static/js/2.7621dec1.chunk.js.map": "/robo-dex/static/js/2.7621dec1.chunk.js.map",
-    "index.html": "/robo-dex/index.html",
-    "static/css/2.31461e4f.chunk.css.map": "/robo-dex/static/css/2.31461e4f.chunk.css.map",
-    "static/css/main.c07a2327.chunk.css.map": "/robo-dex/static/css/main.c07a2327.chunk.css.map",
-    "static/js/2.7621dec1.chunk.js.LICENSE.txt": "/robo-dex/static/js/2.7621dec1.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/robo-dex/static/media/STARWARS.50e674cd.woff"
+    "main.css": "/Robo-dex/static/css/main.76431b7d.chunk.css",
+    "main.js": "/Robo-dex/static/js/main.3a5d420c.chunk.js",
+    "main.js.map": "/Robo-dex/static/js/main.3a5d420c.chunk.js.map",
+    "runtime-main.js": "/Robo-dex/static/js/runtime-main.59ecf62e.js",
+    "runtime-main.js.map": "/Robo-dex/static/js/runtime-main.59ecf62e.js.map",
+    "static/css/2.31461e4f.chunk.css": "/Robo-dex/static/css/2.31461e4f.chunk.css",
+    "static/js/2.bb1cdf39.chunk.js": "/Robo-dex/static/js/2.bb1cdf39.chunk.js",
+    "static/js/2.bb1cdf39.chunk.js.map": "/Robo-dex/static/js/2.bb1cdf39.chunk.js.map",
+    "index.html": "/Robo-dex/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/Robo-dex/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.76431b7d.chunk.css.map": "/Robo-dex/static/css/main.76431b7d.chunk.css.map",
+    "static/js/2.bb1cdf39.chunk.js.LICENSE.txt": "/Robo-dex/static/js/2.bb1cdf39.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Robo-dex/static/media/STARWARS.50e674cd.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.d239f1dd.js",
+    "static/js/runtime-main.59ecf62e.js",
     "static/css/2.31461e4f.chunk.css",
-    "static/js/2.7621dec1.chunk.js",
-    "static/css/main.c07a2327.chunk.css",
-    "static/js/main.3334860b.chunk.js"
+    "static/js/2.bb1cdf39.chunk.js",
+    "static/css/main.76431b7d.chunk.css",
+    "static/js/main.3a5d420c.chunk.js"
   ]
 }
