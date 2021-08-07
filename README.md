@@ -1,2 +1,2 @@
 # robodex
-A rolodex for keeping track of all your robot buddies
+A rolodex for organizing your robot contacts
