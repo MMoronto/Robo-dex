@@ -6,7 +6,7 @@ import ErrorBoundry from '../components/ErrorBoundry';
 import './App.css';
 // import { robots } from './robots';
 
-class App extends Component {
+function App() {
     constructor() {
         super()
         this.state = {
