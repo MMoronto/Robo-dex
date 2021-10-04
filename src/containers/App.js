@@ -6,22 +6,22 @@ import ErrorBoundry from '../components/ErrorBoundry';
 import './App.css';
 
 function App() {
-    constructor() {
-        super()
-        this.state = {
-            robots: [],
-            searchfield: ''
-        }
+    // constructor() {
+    //     super()
+    //     this.state = {
+    //         robots: [],
+    //         searchfield: ''
+    //     }
 
-    }
+    // }
 
-    componentDidMount() {
-        fetch('https://jsonplaceholder.typicode.com/users')
-        .then(response=> response.json())
-        .then(users => {this.setState({ robots: users })});
-    }
+    // componentDidMount() {
+    //     fetch('https://jsonplaceholder.typicode.com/users')
+    //     .then(response=> response.json())
+    //     .then(users => {this.setState({ robots: users })});
+    // }
 
-    onSearchChange = (event) => {
+    const onSearchChange = (event) => {
         this.setState({ searchfield: event.target.value })
     }
 
