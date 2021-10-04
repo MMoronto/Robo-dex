@@ -22,6 +22,11 @@ function App() {
     //     .then(response=> response.json())
     //     .then(users => {this.setState({ robots: users })});
     // }
+    useEffect(()=> {
+        fetch('https://jsonplaceholder.typicode.com/users')
+            .then(response=> response.json())
+            .then(users => {setRobots(users)});
+    })
 
     const onSearchChange = (event) => {
         setSearchfield(event.target.value)
@@ -35,7 +40,7 @@ function App() {
         (
             <div className='tc' >
                 <h1 className='f1'>Robo-Dex</h1>
-                <SearchBox searchChange={this.onSearchChange} />
+                <SearchBox searchChange={onSearchChange} />
                 <Scroll>
                     <ErrorBoundry>
                         <CardList robots={filteredRobots}/>
